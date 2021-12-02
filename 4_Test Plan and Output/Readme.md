@@ -18,3 +18,4 @@
 
 # Output
 
+![63422](https://raw.githubusercontent.com/sparikshit/M2-Embedded_DigitalClock/main/4_Test%20Plan%20and%20Output/Screenshot%20(9).png)
