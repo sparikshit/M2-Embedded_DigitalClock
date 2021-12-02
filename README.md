@@ -15,3 +15,7 @@ The clock starts marking time from 00:00, in the moment that it's powered. To ad
 | 4_Testplan and output| Test cases and Output |
 | 5_Report| Complete report of project |
 | 6_Images and Videos| Images and videos related to project|
+
+## Circuit Diagram
+
+![321311](https://raw.githubusercontent.com/sparikshit/M2-Embedded_DigitalClock/main/2_Architecture/Simulation.png)
